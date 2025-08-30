@@ -22,3 +22,9 @@ The tutorials covered the basics of how the car works, step by step:
 * C/C++ (Arduino language) – for programming.
 * Ultrasonic, IR, and line-tracking sensors – for navigation and obstacle detection.
 * Bluetooth module – to control the car wirelessly from a phone.
+
+# 🎯 Why I Did This
+
+This project was my intro to robotics. I wanted to learn how hardware and software work together in a hands-on way. It’s not just about making the car move. It’s about understanding sensors, electronics, and programming in a real-world system.
+
+Most importantly, I did it as a hobby project, a fun way to dive into robotics, practice coding, and see my work come to life.
