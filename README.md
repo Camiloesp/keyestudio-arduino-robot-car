@@ -1,4 +1,4 @@
-### 🚗 Keyestudio 4WD Smart Car – Arduino Robotics
+# 🚗 Keyestudio 4WD Smart Car – Arduino Robotics
 
 This project is based on the Keyestudio Upgraded 4WD BT Multi-purpose Smart Car V2.0 kit. 
 I followed and coded the tutorials that came with it as a way to get started with robotics and Arduino programming.
